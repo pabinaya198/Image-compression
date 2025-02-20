@@ -1,0 +1,7 @@
+pillow
+scipy
+numpy
+pyqt5
+prettytable
+pyssim
+pandas
